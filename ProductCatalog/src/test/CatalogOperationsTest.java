@@ -1,6 +1,5 @@
 package test;
 
-
 import Clase.*;
 import org.junit.Test;
 
